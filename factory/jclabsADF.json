@@ -1,0 +1,9 @@
+{
+	"name": "jclabsADF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "257d2b0d-6540-4898-835f-dccac3572acf",
+		"tenantId": "7feecaeb-54af-4e68-8de3-cf223fd832fd"
+	}
+}
